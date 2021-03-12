@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="400"
+   viewBox="0 0 105.83333 105.83333"
+   version="1.1"
+   id="svg1460"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Chomsky.svg"
+   inkscape:export-filename="/home/fred/Workspace/ctrlcctrlv.github.io/images/Chomsky.png"
+   inkscape:export-xdpi="190"
+   inkscape:export-ydpi="190">
+  <defs
+     id="defs1454">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1377">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1367" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1369" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.8"
+         result="blur"
+         id="feGaussianBlur1371" />
+      <feOffset
+         dx="2"
+         dy="2"
+         result="offset"
+         id="feOffset1373" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1375" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="210.87368"
+     inkscape:cy="155.38685"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2440"
+     inkscape:window-height="1272"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1457">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1403"
+       transform="rotate(-5.6567808,135.87874,2.339766)">
+      <rect
+         style="fill:#aa0000;stroke:none;stroke-width:10;stroke-linecap:round;filter:url(#filter1377)"
+         id="rect921"
+         width="87.245087"
+         height="112.14596"
+         x="3.7264936"
+         y="1.5469017" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.64948px;line-height:0.95;font-family:sans-serif;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.191237"
+         x="28.953999"
+         y="85.413811"
+         id="text847-3"><tspan
+           sodipodi:role="line"
+           x="28.953999"
+           y="85.413811"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Chomsky;-inkscape-font-specification:Chomsky;fill:#e6e6e6;stroke-width:0.191237"
+           id="tspan849-7">noam chomsky</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.95;font-family:sans-serif;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="7.5702691"
+         y="15.040008"
+         id="text847"><tspan
+           sodipodi:role="line"
+           id="tspan845"
+           x="7.5702691"
+           y="15.040008"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Chomsky;-inkscape-font-specification:Chomsky;fill:#e6e6e6;stroke-width:0.264583">Manufacturing</tspan><tspan
+           sodipodi:role="line"
+           x="7.5702691"
+           y="25.845556"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Chomsky;-inkscape-font-specification:Chomsky;fill:#e6e6e6;stroke-width:0.264583"
+           id="tspan849"
+           dx="0 0 0 0 0.40000001 0 0">Consent</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="25.717745"
+         y="38.222034"
+         id="text885"><tspan
+           sodipodi:role="line"
+           id="tspan883"
+           x="25.717745"
+           y="38.222034"
+           style="stroke-width:0.264583" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.1327px;line-height:0.95;font-family:sans-serif;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.228318"
+         x="8.0749378"
+         y="41.001717"
+         id="text847-5"><tspan
+           sodipodi:role="line"
+           x="8.0749378"
+           y="41.001717"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Chomsky;-inkscape-font-specification:Chomsky;fill:#e6e6e6;stroke-width:0.228318"
+           id="tspan849-5">the political</tspan><tspan
+           sodipodi:role="line"
+           x="8.0749378"
+           y="50.326202"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Chomsky;-inkscape-font-specification:Chomsky;fill:#e6e6e6;stroke-width:0.228318"
+           id="tspan917">economy of the</tspan><tspan
+           sodipodi:role="line"
+           x="8.0749378"
+           y="59.650688"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Chomsky;-inkscape-font-specification:Chomsky;fill:#e6e6e6;stroke-width:0.228318"
+           id="tspan919">mass media</tspan></text>
+    </g>
+  </g>
+</svg>
