@@ -3,4 +3,17 @@ body {
   padding-top: 3.5rem;
 }
 
+.navbar-nav {
+  flex-direction: row;
+}
 
+.navbar-brand {
+  padding-left: 1rem;
+}
+
+@media (max-width: 768px) {
+  .nav-item {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+}
