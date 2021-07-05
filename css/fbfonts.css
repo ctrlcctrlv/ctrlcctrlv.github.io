@@ -3,6 +3,19 @@ body {
   padding-top: 3.5rem;
 }
 
+.img-smaller {
+    transform-origin: bottom right;
+    transform: scale(0.6);
+}
+
+.fursona {
+    z-index: 10;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    width: 400px;
+}
+
 .navbar-nav {
   flex-direction: row;
 }
@@ -55,5 +68,16 @@ footer p.cc-paragraph {
   .nav-item {
     padding-left: 0.5rem;
     padding-right: 0.5rem;
+  }
+}
+@media (max-width: 2080px) {
+  .fursona {
+    width: 300px
+  }
+}
+@media (max-width: 1080px) {
+  .fursona {
+    position: initial;
+    width: 200px
   }
 }
