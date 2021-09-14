@@ -1,0 +1,3 @@
+Contact: mailto:copypaste@kittens.ph
+# GnuPG fingerprint
+Encryption: 6F12 EC72 A82A BCA3 5235 063A 10DD C983 901A A183
