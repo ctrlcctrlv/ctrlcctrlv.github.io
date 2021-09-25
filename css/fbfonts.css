@@ -65,6 +65,16 @@ footer p.cc-paragraph {
 	align-items: center;
 }
 
+@counter-style numero {
+	system: extends decimal;
+	prefix: "\2116";
+}
+
+ol.numero {
+	list-style: numero;
+	list-style-position: inside;
+}
+
 @media (max-width: 768px) {
   .nav-item {
     padding-left: 0.5rem;
